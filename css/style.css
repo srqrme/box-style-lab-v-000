@@ -23,7 +23,7 @@ h4 {
   margin: 20px 0 0 0;
 }
 
-h4 .amiable {
+h4.amiable {
   background: linear-gradient(to right, #2a4, #4c6);
 }
 
